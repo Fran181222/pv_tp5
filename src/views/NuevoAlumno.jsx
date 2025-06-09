@@ -14,7 +14,6 @@ const NuevoAlumno = ({onAdd}) => {
 
   return (
     <div>
-      <h2>Agregar Nuevo Alumno</h2>
       <AlumnoForm onSubmit={handleAdd} />
     </div>
   );

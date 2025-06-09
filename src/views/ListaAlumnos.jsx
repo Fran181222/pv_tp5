@@ -13,3 +13,4 @@ const ListaAlumnos = ({ alumnos, onDelete}) => {
 };
 
 export default ListaAlumnos;
+
